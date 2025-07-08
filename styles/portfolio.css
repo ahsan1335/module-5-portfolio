@@ -179,6 +179,17 @@ footer{
 .footer-column{
   width: 50%;
 }
+.footer-column p{
+  font-size: 14px;
+}
+footer .section-title{
+  font-size: 25px;
+}
+footer div a{
+  padding: 10px;
+  margin: 20px 0;
+  align-items: left;
+}
 form input{
   display: block;  
   height: 30px;
