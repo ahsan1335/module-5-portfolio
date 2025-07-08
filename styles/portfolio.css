@@ -97,6 +97,17 @@ ul li a {
 .banner-pro-pic {
   width: 580px;
 }
+.btn-contact{
+  background-color: #fff8f3;
+  color: #fd6e0a;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 18px 25px;
+  margin-left: 20px;
+  border-radius: 5px;
+  border: 1px solid #fd6e0a;
+}
+
 
 /* main styles */
 main {
@@ -204,4 +215,5 @@ input textarea{
 }
 form button{
   margin-top: 20px;
+  display: block;
 }
